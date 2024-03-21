@@ -1,6 +1,6 @@
 # File Uploader App 📁
 
-![File Uploader App](/public/assets/svg/image.svg)
+![File Uploader App](/public/assets/images/preview.png)
 
 A simple file uploader application built with React.
 
